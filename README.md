@@ -10,7 +10,7 @@ Analysis:
 
 Key Insights:
 - Top 2 selling products are fashion and electronics 
-  Lowest selling product is laptop
+- Lowest selling product is laptop
 
 Skills:
 - ORDER BY
